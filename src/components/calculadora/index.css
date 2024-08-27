@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #818274;
+    color: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    max-width: 960px;
+    width: 100%;
+    text-align: center;
+}
+input{
+    padding: 8px;
+    color: #f1f1f1;
+}
+input::placeholder{
+    color: #f1f1f1;
+}
+table{
+     margin: 0 auto;
+     margin-top: 16px;
+}
+table, th, td {
+    border: 1px solid;
+    padding: 8px;
+}
