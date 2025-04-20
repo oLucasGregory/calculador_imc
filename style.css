@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  main {
+    max-width: 500px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  input, button {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #008cff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #006fd3;
+  }
+  
+  #resultado {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .ads {
+    margin-top: 40px;
+    padding: 20px;
+    background: #e2e2e2;
+    border-radius: 8px;
+  }
+  
+  footer {
+    margin-top: 50px;
+    font-size: 14px;
+    color: #666;
+  }
+  
